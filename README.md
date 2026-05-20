@@ -1,2 +1,2 @@
-# Power-BI-
-Projects
+Power BI Sales & Profit Dashboard Project
+Developed an interactive Power BI dashboard to analyze sales performance, profit trends, and regional distribution. The dashboard includes key KPIs such as total sales, total profit, profit margin, and quantity sold, along with dynamic visualizations for sales by state, category breakdown, and time-based trends. It also features filters for region and year to enable drill-down analysis and data-driven decision making. The project demonstrates skills in data visualization, dashboard design, and business intelligence reporting.
